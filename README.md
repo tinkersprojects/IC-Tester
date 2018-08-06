@@ -1,4 +1,6 @@
 # IC Tester
+[https://tinkersprojects.com/](https://tinkersprojects.com/)
+
 
 This is an IC tester for any type of logic chip. The device pules every pin combination and reads the all other pins to find which type of chip it is. The chip would have been already analysed before testing.
 
